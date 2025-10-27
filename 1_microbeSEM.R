@@ -2,6 +2,9 @@
 ## Load libraries
 ## **********************************************************
 
+## this project is so fun! woah!
+
+
 rm(list=ls())
 setwd("~/")
 source("lab_paths.R")
